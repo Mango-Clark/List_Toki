@@ -1,5 +1,7 @@
 # List_Toki
 
+[**Current Version: 220.0**](https://github.com/Mango-Clark/List_Toki/blob/main/List_Toki.txt)
+
 List_Toki is an AdBlock filter list for websites that provide online content for Korean viewers. It contains a set of filters designed to block specific elements on these websites, such as ad banners and pop-up windows, to provide a more streamlined and pleasant browsing experience.
 
 ## Usage
