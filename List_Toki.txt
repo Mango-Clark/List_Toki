@@ -1,7 +1,7 @@
 ! Title: List_Toki
 ! Description: List-KR addon list for toki services.
-! Version: 221.0
-! Expires: 1 days
+! Version: 221.1
+! Expires: 1 day
 ! Homepage: https://github.com/Mango-Clark/List_Toki
 ! Test environment: Brave browser, List-KR(https://github.com/List-KR/List-KR)
 ! Note: Use this list with List-KR(https://github.com/List-KR/List-KR) and other AdBlock services.(ABP, uBO, Brave browser...)
