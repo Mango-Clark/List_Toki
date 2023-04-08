@@ -1,26 +1,26 @@
 ! Title: List_Toki
 ! Description: List-KR addon list for toki services.
-! Version: 283.0
+! Version: 284.0
 ! Expires: 1 day
 ! Homepage: https://github.com/Mango-Clark/List_Toki
 ! Test environment: Brave browser, List-KR(https://github.com/List-KR/List-KR)
 ! Note: Use this list with List-KR(https://github.com/List-KR/List-KR) and other AdBlock services.(ABP, uBO, Brave browser...)
 
 
-newtoki283.com###hd_pop
-newtoki283.com##.basic-banner
-newtoki283.com##.col-15.col-md-9.col-sm-9
-newtoki283.com###main-banner-view > .col-15.col-md-3.col-sm-3 > div:nth-of-type(2)
-newtoki283.com###id_mbv > .col-15.col-md-3.col-sm-3 > div:nth-of-type(2)
-newtoki283.com##.at-content > div.row.row-15 > div:nth-of-type(1)
+newtoki284.com###hd_pop
+newtoki284.com##.basic-banner
+newtoki284.com##.col-15.col-md-9.col-sm-9
+newtoki284.com###main-banner-view > .col-15.col-md-3.col-sm-3 > div:nth-of-type(2)
+newtoki284.com###id_mbv > .col-15.col-md-3.col-sm-3 > div:nth-of-type(2)
+newtoki284.com##.at-content > div.row.row-15 > div:nth-of-type(1)
 
-manatoki283.net###hd_pop
-manatoki283.net###main-banner-view
-manatoki283.net###id_mbv
-manatoki283.net##.basic-banner
-manatoki283.net##div.col.col-15.col-sm-6.col-md-6.col-lg-12:nth-of-type(1) > div:nth-of-type(2)
+manatoki284.net###hd_pop
+manatoki284.net###main-banner-view
+manatoki284.net###id_mbv
+manatoki284.net##.basic-banner
+manatoki284.net##div.col.col-15.col-sm-6.col-md-6.col-lg-12:nth-of-type(1) > div:nth-of-type(2)
 
-booktoki283.com###hd_pop
-booktoki283.com##.basic-banner
-booktoki283.com##.col-15.col-md-9.col-sm-9
-booktoki283.com##.col-15.col-md-3.col-sm-3 > div:nth-of-type(2)
+booktoki284.com###hd_pop
+booktoki284.com##.basic-banner
+booktoki284.com##.col-15.col-md-9.col-sm-9
+booktoki284.com##.col-15.col-md-3.col-sm-3 > div:nth-of-type(2)
