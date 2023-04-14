@@ -28,7 +28,7 @@ Each domain has a separate set of filters that target specific elements on the w
 
 The List_Toki filter list is regularly updated to keep up with changes to the websites it targets. The version number for the filter list indicates the latest update in the format of `{web number}.{changed number}`.
 
-To ensure that you have the latest filters, it is suggested to update your AdBlock service's filter settings regularly, or manually update the filter list by downloading the latest version from GitHub.
+To ensure that you have the latest filters, it is suggested to update your AdBlock service's filter settings regularly, or manually update the filter list by downloading the latest version from GitHub. Since the website changes frequently please make sure this filter is updated.
 
 ## Contributing
 
