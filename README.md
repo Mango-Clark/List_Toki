@@ -6,9 +6,9 @@ List_Toki is an AdBlock filter list for websites that provide online content for
 
 ## Usage
 
-List_Toki is suggested to be used with AdBlock services such as ABP, uBO, and Brave browser, as well as the List-KR add-on, which is available on GitHub. To use the filter list, simply add the URL of the raw filter file to your AdBlock service's filter settings.
+List_Toki is suggested to be used with AdBlock services such as ABP, uBO, and Brave browser, as well as the List-KR add-on, which is available on GitHub. To use the filter list, simply add the URL of the filter to your AdBlock service's custom filter settings.
 
-Here's the URL for the raw filter file on GitHub:
+Here's the URL for the custom filter:
 
 ```
 https://raw.githubusercontent.com/Mango-Clark/List_Toki/main/List_Toki.txt
