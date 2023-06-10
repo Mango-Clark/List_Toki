@@ -33,3 +33,7 @@ To ensure that you have the latest filters, it is suggested to update your AdBlo
 ## Contributing
 
 If you have suggestions for improving the List_Toki filter list, or would like to report issues with the current filters, please feel free to open an issue or submit a pull request on the List_Toki GitHub repository. Contributions and feedback are always welcome!
+
+## Requesting New Domains
+
+If you want to request other domains, please report issues with site-support-request label.
