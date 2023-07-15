@@ -1,26 +1,14 @@
 ! Title: List_Toki
 ! Description: List-KR addon list for toki services.
-! Version: 297.0
+! Version: 297.1
 ! Expires: 1 day
 ! Homepage: https://github.com/Mango-Clark/List_Toki
-! Test environment: Brave browser, List-KR(https://github.com/List-KR/List-KR)
-! Note: Use this list with List-KR(https://github.com/List-KR/List-KR) and other AdBlock services.(ABP, uBO, Brave browser...)
+! Test environment: Brave browser
+! Note: For more convenience, use this filter list with List-KR(https://github.com/List-KR/List-KR) and other AdBlock services.(ABP, uBO, Brave browser...)
 
 
-newtoki297.com###hd_pop
-newtoki297.com##.basic-banner
-newtoki297.com##.col-15.col-md-9.col-sm-9
-newtoki297.com###main-banner-view > .col-15.col-md-3.col-sm-3 > div:nth-of-type(2)
-newtoki297.com###id_mbv > .col-15.col-md-3.col-sm-3 > div:nth-of-type(2)
-newtoki297.com##.at-content > div.row.row-15 > div:nth-of-type(1)
-
-manatoki297.net###hd_pop
-manatoki297.net###main-banner-view
-manatoki297.net###id_mbv
-manatoki297.net##.basic-banner
-manatoki297.net##div.col.col-15.col-sm-6.col-md-6.col-lg-12:nth-of-type(1) > div:nth-of-type(2)
-
-booktoki297.com###hd_pop
-booktoki297.com##.basic-banner
-booktoki297.com##.col-15.col-md-9.col-sm-9
-booktoki297.com##.col-15.col-md-3.col-sm-3 > div:nth-of-type(2)
+newtoki297.com,booktoki297.com,manatoki297.net###hd_pop
+newtoki297.com,booktoki297.com,manatoki297.net#?#:has(> div > a[href*="linkbn.php"])
+newtoki297.com,booktoki297.com#?#:has(> a[href^="https://t.me/"])
+newtoki297.com,booktoki297.com###main-banner-view > div.col-15.col-md-9.col-sm-9
+newtoki297.com,booktoki297.com###id_mbv > div.col-15.col-md-9.col-sm-9

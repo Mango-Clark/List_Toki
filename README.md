@@ -1,6 +1,6 @@
 # List_Toki
 
-[**Current Version: 297.0**](https://github.com/Mango-Clark/List_Toki/blob/main/List_Toki.txt)
+[**Current Version: 297.1**](https://github.com/Mango-Clark/List_Toki/blob/main/List_Toki.txt)
 
 List_Toki is an AdBlock filter list for websites that provide online content for Korean viewers. It contains a set of filters designed to block specific elements on these websites, such as ad banners and pop-up windows, to provide a more streamlined and pleasant browsing experience.
 
@@ -14,15 +14,25 @@ Here's the URL for the custom filter:
 https://raw.githubusercontent.com/Mango-Clark/List_Toki/main/List_Toki.txt
 ```
 
+### These filters can filter non-ad type in supported domains
+
+* [Fanboy's Annoyances](https://fanboy.co.nz/)
+
 ## Supported Domains
 
 List_Toki includes filters for the following domains:
 
-- `newtoki297.com`
-- `manatoki297.net`
-- `booktoki297.com`
+* `newtoki297.com`
+* `manatoki297.net`
+* `booktoki297.com`
 
 Each domain has a separate set of filters that target specific elements on the website.
+
+## Diffrence between List-KR
+
+List-KR just hide ads so the blank space is left.
+
+Mean while List_Toki block ads and hides the blank space which makes user experience better.
 
 ## Updating the Filters
 
