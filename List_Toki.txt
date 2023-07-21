@@ -1,14 +1,14 @@
 ! Title: List_Toki
 ! Description: List-KR addon list for toki services.
-! Version: 297.1
+! Version: 298.0
 ! Expires: 1 day
 ! Homepage: https://github.com/Mango-Clark/List_Toki
 ! Test environment: Brave browser
 ! Note: For more convenience, use this filter list with List-KR(https://github.com/List-KR/List-KR) and other AdBlock services.(ABP, uBO, Brave browser...)
 
 
-newtoki297.com,booktoki297.com,manatoki297.net###hd_pop
-newtoki297.com,booktoki297.com,manatoki297.net#?#:has(> div > a[href*="linkbn.php"])
-newtoki297.com,booktoki297.com#?#:has(> a[href^="https://t.me/"])
-newtoki297.com,booktoki297.com###main-banner-view > div.col-15.col-md-9.col-sm-9
-newtoki297.com,booktoki297.com###id_mbv > div.col-15.col-md-9.col-sm-9
+newtoki298.com,booktoki298.com,manatoki298.net###hd_pop
+newtoki298.com,booktoki298.com,manatoki298.net#?#:has(> div > a[href*="linkbn.php"])
+newtoki298.com,booktoki298.com#?#:has(> a[href^="https://t.me/"])
+newtoki298.com,booktoki298.com###main-banner-view > div.col-15.col-md-9.col-sm-9
+newtoki298.com,booktoki298.com###id_mbv > div.col-15.col-md-9.col-sm-9
