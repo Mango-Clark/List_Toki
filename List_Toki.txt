@@ -1,14 +1,14 @@
 ! Title: List_Toki
 ! Description: Adblock list for toki services.
-! Version: 302.0
+! Version: 303.0
 ! Expires: 12 hours
 ! Homepage: https://github.com/Mango-Clark/List_Toki
 ! Test environment: Brave browser
 ! Note: For more convenience, use this filter list with List-KR(https://github.com/List-KR/List-KR) and other AdBlock services.(ABP, uBO, Brave browser...)
 
 
-newtoki302.com,booktoki302.com,manatoki302.net###hd_pop
-newtoki302.com,booktoki302.com,manatoki302.net#?#:has(> div > a[href*="linkbn.php"])
-newtoki302.com,booktoki302.com#?#:has(> a[href^="https://t.me/"])
-newtoki302.com,booktoki302.com###main-banner-view > div.col-15.col-md-9.col-sm-9
-newtoki302.com,booktoki302.com###id_mbv > div.col-15.col-md-9.col-sm-9
+newtoki303.com,booktoki303.com,manatoki303.net###hd_pop
+newtoki303.com,booktoki303.com,manatoki303.net#?#:has(> div > a[href*="linkbn.php"])
+newtoki303.com,booktoki303.com#?#:has(> a[href^="https://t.me/"])
+newtoki303.com,booktoki303.com###main-banner-view > div.col-15.col-md-9.col-sm-9
+newtoki303.com,booktoki303.com###id_mbv > div.col-15.col-md-9.col-sm-9
